@@ -1,6 +1,6 @@
 # test-demo-repo
 This is my first Git Repository
 <br>
-Name: Shivam Verma
+Name: Shivam Verma (CapGem)
 <br>
-Organisation: ABCD
+Organization: ABCD
